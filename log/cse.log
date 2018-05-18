@@ -1,0 +1,133 @@
+[Thu, 19 Apr 2018 10:23:26][main.py][line:123][INFO] 1
+[Thu, 19 Apr 2018 10:26:14][main.py][line:123][INFO] 1
+[Thu, 19 Apr 2018 10:26:23][main.py][line:123][INFO] 1
+[Thu, 19 Apr 2018 10:27:05][main.py][line:123][INFO] 1
+[Thu, 19 Apr 2018 10:27:35][main.py][line:123][INFO] 1
+[Thu, 19 Apr 2018 10:52:50][main.py][line:144][INFO] 1
+[Thu, 19 Apr 2018 10:58:38][main.py][line:132][INFO] 1
+[Thu, 19 Apr 2018 10:58:41][main.py][line:132][INFO] 1
+[Thu, 19 Apr 2018 14:01:24][main.py][line:132][INFO] 1
+[Thu, 19 Apr 2018 14:19:50][main.py][line:136][INFO] 1
+[Thu, 19 Apr 2018 15:32:08][main.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 15:32:24][main.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 15:32:46][main.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 15:32:46][database.py][line:36][ERROR] sql execute error!
+[Thu, 19 Apr 2018 15:32:46][database.py][line:36][ERROR] sql execute error!
+[Thu, 19 Apr 2018 15:32:46][database.py][line:36][ERROR] sql execute error!
+[Thu, 19 Apr 2018 15:33:24][main.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 15:33:24][database.py][line:36][ERROR] sql execute error!
+[Thu, 19 Apr 2018 15:33:24][database.py][line:36][ERROR] sql execute error!
+[Thu, 19 Apr 2018 15:33:24][database.py][line:36][ERROR] sql execute error!
+[Thu, 19 Apr 2018 15:34:35][main.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 15:34:35][database.py][line:35][ERROR] sql execute error!
+[Thu, 19 Apr 2018 15:34:35][database.py][line:35][ERROR] sql execute error!
+[Thu, 19 Apr 2018 15:34:35][database.py][line:35][ERROR] sql execute error!
+[Thu, 19 Apr 2018 15:35:51][main.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:06:55][ubc.py][line:154][INFO] 1
+[Thu, 19 Apr 2018 16:07:00][ubc.py][line:154][INFO] 1
+[Thu, 19 Apr 2018 16:11:21][ubc.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:17:29][ubc.py][line:154][INFO] 1
+[Thu, 19 Apr 2018 16:19:49][ubc.py][line:153][INFO] 1
+[Thu, 19 Apr 2018 16:26:09][ubc.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:26:10][ubc.py][line:146][ERROR] unrecognized message from:('127.0.0.1', 53260)
+[Thu, 19 Apr 2018 16:27:28][ubc.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:29:00][ubc.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:32:15][ubc.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:32:31][ubc.py][line:146][ERROR] unrecognized message from:('127.0.0.1', 51264)
+[Thu, 19 Apr 2018 16:33:18][ubc.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:37:53][ubc.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:38:04][ubc.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:38:16][ubc.py][line:146][ERROR] unrecognized message from:('127.0.0.1', 48982)
+[Thu, 19 Apr 2018 16:38:54][ubc.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:40:19][ubc.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:40:24][database.py][line:37][ERROR] sql execute error!
+[Thu, 19 Apr 2018 16:43:40][ubc.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:57:54][ubc.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:58:15][ubc.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:58:35][ubc.py][line:155][INFO] 1
+[Thu, 19 Apr 2018 16:58:38][database.py][line:37][ERROR] sql execute error!
+[Fri, 20 Apr 2018 09:36:52][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 09:38:23][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 09:39:52][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 09:40:39][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 09:44:44][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 09:44:48][database.py][line:60][ERROR] unique constraint failed:UNIQUE constraint failed: mobilecomm.IMSI
+[Fri, 20 Apr 2018 09:45:48][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 09:45:51][database.py][line:60][ERROR] unique constraint failed:UNIQUE constraint failed: mobilecomm.IMSI
+[Fri, 20 Apr 2018 09:48:29][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 09:50:34][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 09:50:37][database.py][line:60][ERROR] unique constraint failed:UNIQUE constraint failed: mobilecomm.IMSI
+[Fri, 20 Apr 2018 09:52:43][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 09:52:46][database.py][line:60][ERROR] unique constraint failed:UNIQUE constraint failed: mobilecomm.IMSI
+[Fri, 20 Apr 2018 09:53:15][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 09:53:18][database.py][line:61][ERROR] unique constraint failed:UNIQUE constraint failed: mobilecomm.IMSI
+[Fri, 20 Apr 2018 09:55:15][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 09:55:18][database.py][line:61][ERROR] unique constraint failed:UNIQUE constraint failed: mobilecomm.IMSI
+[Fri, 20 Apr 2018 10:15:22][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 10:15:30][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 10:18:52][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 10:19:50][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 10:21:09][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 10:21:36][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 10:21:49][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 10:23:13][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 10:23:59][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 10:34:47][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 10:37:56][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 10:40:09][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 11:17:13][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 13:35:29][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 13:36:58][ubc.py][line:155][INFO] 1
+[Fri, 20 Apr 2018 13:40:54][ubc.py][line:156][INFO] 1
+[Fri, 20 Apr 2018 13:41:48][ubc.py][line:156][INFO] 1
+[Fri, 20 Apr 2018 13:51:01][ubc.py][line:156][INFO] 1
+[Fri, 20 Apr 2018 13:51:51][ubc.py][line:156][INFO] 1
+[Fri, 20 Apr 2018 13:56:49][ubc.py][line:157][INFO] 1
+[Fri, 20 Apr 2018 13:56:49][database.py][line:63][ERROR] unique constraint failed:UNIQUE constraint failed: mobilecomm.IMSI
+[Fri, 20 Apr 2018 13:57:52][ubc.py][line:157][INFO] 1
+[Fri, 20 Apr 2018 13:57:52][database.py][line:63][ERROR] unique constraint failed:UNIQUE constraint failed: mobilecomm.IMSI
+[Fri, 20 Apr 2018 13:58:57][ubc.py][line:158][INFO] 1
+[Fri, 20 Apr 2018 13:58:57][database.py][line:63][ERROR] unique constraint failed:UNIQUE constraint failed: mobilecomm.IMSI
+[Fri, 20 Apr 2018 14:00:33][ubc.py][line:158][INFO] 1
+[Fri, 20 Apr 2018 14:00:33][database.py][line:63][ERROR] unique constraint failed:UNIQUE constraint failed: mobilecomm.IMSI
+[Fri, 20 Apr 2018 14:00:39][database.py][line:63][ERROR] unique constraint failed:UNIQUE constraint failed: mobilecomm.IMSI
+[Fri, 20 Apr 2018 14:12:33][ubc.py][line:158][INFO] 1
+[Fri, 20 Apr 2018 14:16:20][ubc.py][line:158][INFO] 1
+[Fri, 20 Apr 2018 14:16:28][ubc.py][line:158][INFO] 1
+[Fri, 20 Apr 2018 14:25:03][ubc.py][line:158][INFO] 1
+[Fri, 20 Apr 2018 14:36:55][ubc.py][line:158][INFO] 1
+[Fri, 20 Apr 2018 14:37:08][ubc.py][line:158][INFO] 1
+[Fri, 20 Apr 2018 15:21:23][ubc.py][line:158][INFO] 1
+[Fri, 20 Apr 2018 15:21:29][ubc.py][line:158][INFO] 1
+[Fri, 20 Apr 2018 16:12:51][ubc.py][line:168][INFO] 1
+[Fri, 20 Apr 2018 16:17:22][ubc.py][line:166][INFO] 1
+[Fri, 20 Apr 2018 16:35:06][ubc.py][line:166][INFO] 1
+[Fri, 20 Apr 2018 16:35:28][ubc.py][line:166][INFO] 1
+[Fri, 20 Apr 2018 16:37:26][ubc.py][line:167][INFO] 1
+[Fri, 20 Apr 2018 16:39:30][ubc.py][line:166][INFO] 1
+[Fri, 20 Apr 2018 16:39:36][ubc.py][line:166][INFO] 1
+[Tue, 01 May 2018 12:41:19][ubc.py][line:150][ERROR] ('can only concatenate tuple (not "str") to tuple',)can only concatenate tuple (not "str") to tuple
+[Tue, 01 May 2018 12:42:59][ubc.py][line:185][ERROR] ('%d format: a number is required, not str',)%d format: a number is required, not str
+[Tue, 01 May 2018 12:44:37][ubc.py][line:185][ERROR] ('%d format: a number is required, not str',)%d format: a number is required, not str
+[Tue, 01 May 2018 12:44:37][ubc.py][line:165][ERROR] ('UNIQUE constraint failed: mobilecomm.IMSI',)UNIQUE constraint failed: mobilecomm.IMSI
+[Tue, 01 May 2018 12:46:21][ubc.py][line:185][ERROR] ('%d format: a number is required, not str',)%d format: a number is required, not str
+[Tue, 01 May 2018 12:46:21][ubc.py][line:165][ERROR] ('UNIQUE constraint failed: mobilecomm.IMSI',)UNIQUE constraint failed: mobilecomm.IMSI
+[Tue, 01 May 2018 12:57:06][ubc.py][line:192][ERROR] ('%d format: a number is required, not str',)%d format: a number is required, not str
+[Fri, 18 May 2018 10:37:06][ubc.py][line:277][INFO] 1.0
+[Fri, 18 May 2018 10:41:10][ubc.py][line:273][INFO] receive from client:57bytes data
+[Fri, 18 May 2018 10:41:10][ubc.py][line:257][INFO] message:{"id": "NTC_QUERY_IMSI", "imsilist": ["460004372765195"]}address:('127.0.0.1', 42913)
+[Fri, 18 May 2018 10:42:38][ubc.py][line:277][INFO] 1.0
+[Fri, 18 May 2018 10:42:51][ubc.py][line:273][INFO] receive from client:52bytes data
+[Fri, 18 May 2018 10:42:51][ubc.py][line:257][INFO] message:{"id": "NTC_QUERY_IMSI", "imsi": ["46000935687132"]}address:('127.0.0.1', 33752)
+[Fri, 18 May 2018 10:42:51][ubc.py][line:249][INFO] send{"id": "NTC_QUERY_IMSI_REP", "imsilist": ["46000935687132"]}('127.0.0.1', 33752)
+[Fri, 18 May 2018 10:46:57][ubc.py][line:273][INFO] receive from client:224bytes data
+[Fri, 18 May 2018 10:46:57][ubc.py][line:257][INFO] message:{"id": "NTC_QUERY_IMSI", "imsi": ["460006947440913", "460003188213851", "460003730861785", "460005543567281", "460001816407010", "460001320987511", "460009175365702", "460004835487673", "460001767819448", "460009025621228"]}address:('127.0.0.1', 56689)
+[Fri, 18 May 2018 10:46:57][ubc.py][line:249][INFO] send{"id": "NTC_QUERY_IMSI_REP", "imsilist": ["460006947440913", "460003188213851", "460003730861785", "460005543567281", "460001816407010", "460001320987511", "460009175365702", "460004835487673", "460001767819448", "460009025621228"]}('127.0.0.1', 56689)
+[Fri, 18 May 2018 10:48:02][ubc.py][line:273][INFO] receive from client:229bytes data
+[Fri, 18 May 2018 10:48:02][ubc.py][line:257][INFO] message:{"id": "NTC_INSERT_IMSI", "imsilist": ["460002508295209", "460007968089297", "460008916570756", "460006035050490", "460001941028077", "460002814016070", "460005966605537", "460009529833638", "460001209455376", "460006794695757"]}address:('127.0.0.1', 56689)
+[Fri, 18 May 2018 10:48:27][ubc.py][line:277][INFO] 1.0
+[Fri, 18 May 2018 10:48:37][ubc.py][line:273][INFO] receive from client:229bytes data
+[Fri, 18 May 2018 10:48:37][ubc.py][line:257][INFO] message:{"id": "NTC_INSERT_IMSI", "imsilist": ["460003601379661", "460007893489019", "460001651315744", "460009007893335", "460006333535930", "460004574852697", "460006877815678", "460004965542552", "460005562821618", "460004156222090"]}address:('127.0.0.1', 53483)
+[Fri, 18 May 2018 14:09:51][ubc.py][line:277][INFO] 1.0
+[Fri, 18 May 2018 14:10:01][ubc.py][line:273][INFO] receive from client:228bytes data
+[Fri, 18 May 2018 14:10:01][ubc.py][line:257][INFO] message:{"id": "NTC_INSERT_IMSI", "imsilist": ["460009137642657", "460007876097882", "460008370000684", "460004388277433", "460002136119874", "460005348291220", "460004344758990", "460005030528972", "460008913326397", "46000386575816"]}address:('127.0.0.1', 53743)
